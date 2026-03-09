@@ -15,7 +15,7 @@
         "package": "chrome-local-mcp"
       },
       "description": "Control a local Chrome browser from Claude Code — navigate, click, type, screenshot, OCR, and more.",
-      "version": "1.1.0",
+      "version": "1.1.2",
       "author": {
         "name": "callmehuyv"
       },
