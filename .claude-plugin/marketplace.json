@@ -1,0 +1,29 @@
+{
+  "name": "moha-plugins",
+  "owner": {
+    "name": "callmehuyv",
+    "email": "callmehuyv@gmail.com"
+  },
+  "metadata": {
+    "description": "Browser automation and developer tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "chrome-local-mcp",
+      "source": {
+        "source": "npm",
+        "package": "chrome-local-mcp"
+      },
+      "description": "Control a local Chrome browser from Claude Code — navigate, click, type, screenshot, OCR, and more.",
+      "version": "1.1.0",
+      "author": {
+        "name": "callmehuyv"
+      },
+      "homepage": "https://github.com/callmehuyv/chrome-local-mcp",
+      "repository": "https://github.com/callmehuyv/chrome-local-mcp",
+      "license": "MIT",
+      "keywords": ["chrome", "browser", "puppeteer", "mcp", "automation", "screenshot", "ocr"],
+      "category": "browser-automation"
+    }
+  ]
+}
